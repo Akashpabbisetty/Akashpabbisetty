@@ -1,16 +1,18 @@
-## Hi there 👋
+### Akash — Software Engineer | Backend + AI/ML
 
-<!--
-**Akashpabbisetty/Akashpabbisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year B.Tech (AI & ML), CGPA 8.52. Focused on backend engineering
+(Java/Spring, Python/FastAPI) with applied AI/ML — LLMs, RAG, embeddings.
 
-Here are some ideas to get you started:
+**Currently building:** TaskFlow AI — full-stack productivity platform
+**Also shipped:** NexusRecruit (AI recruitment), PDF Summarizer (local LLMs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core stack**
+Java · Spring Boot/MVC · Hibernate/JPA · Python · FastAPI · React
+PostgreSQL · MongoDB · SQL · DSA
+
+**AI/ML**
+Machine Learning · Generative AI/LLMs · RAG · Embeddings · Ollama (local LLMs)
+
+**Currently strengthening:** Java+DSA depth, Spring ecosystem, RAG pipelines
+
+📫 [akash.pabbisetty@gmail.com] · [linkedin : https://www.linkedin.com/in/akash-pabbisetty]
