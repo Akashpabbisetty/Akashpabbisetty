@@ -15,4 +15,4 @@ Machine Learning · Generative AI/LLMs · RAG · Embeddings · Ollama (local LLM
 
 **Currently strengthening:** Java+DSA depth, Spring ecosystem, RAG pipelines
 
-📫 [akash.pabbisetty@gmail.com] · [linkedin : https://www.linkedin.com/in/akash-pabbisetty]
+Mail [akash.pabbisetty@gmail.com] · [linkedin : https://www.linkedin.com/in/akash-pabbisetty]
