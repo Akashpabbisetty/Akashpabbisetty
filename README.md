@@ -14,7 +14,7 @@
 
 ## About Me
 
-- 🎓 4th-year B.Tech, Artificial Intelligence & Machine Learning — LBRCE (2023–2027) · CGPA **8.52**
+- 🎓 4th-year B.Tech, Artificial Intelligence & Machine Learning — LBRCE (2023–2027) ·
 - 🧠 Positioning: **Software Engineer** with a backend + applied AI/ML focus
 - 💪 Strongest in **Java** and **DSA / problem-solving**
 - 🔭 Building **TaskFlow AI**, an AI-powered productivity platform
